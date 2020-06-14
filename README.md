@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./udemy-dev/StarWarsRepo/brasao-site.gif](CURRAHEE - AIR ASSAULT)
+![CURRAHEE - AIR ASSAULT](./udemy-dev/StarWarsRepo/brasao-site.gif)
 
 Este repositório serve de exemplo para o curso de Git e Github.
